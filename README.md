@@ -18,7 +18,7 @@ The dataset used for this analysis is named "top-5000-youtube-channels.csv." It 
 Analysis Steps
 Displaying Data: Displayed the first 5 and last 5 rows of the dataset using df.head() and df.tail().
 
-Data Shape: Found the shape of the dataset, indicating the number of rows and columns.
+*Data Shape*: Found the shape of the dataset, indicating the number of rows and columns.
 
 Data Information: Obtained information about the dataset, including data types and null values, using df.info().
 
